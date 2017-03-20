@@ -4,8 +4,8 @@ class Db {
 	static private $_instance;
 	static private $_connectSource;
 	private $_dbConfig = array(
-		'host' => 'hdm111425599.my3w.com:3306',
-		'user' => 'hdm111425599',
+		'host' => 'hdm111426688.my3w.com:3306',
+		'user' => 'hdm111426688',
 		'password' => 'sscq6688',
 		'database' => 'hdm111425599_db',
 	);
